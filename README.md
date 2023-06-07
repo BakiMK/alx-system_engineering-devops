@@ -11,3 +11,4 @@ alx-system_engineering-devops
 9-firstdirdeletion
 10-back
 11-lists
+12-file_type
