@@ -1,2 +1,2 @@
-#!/ban/bash
-cp -*.html ../
+#!/bin/bash
+cp i-*.html ../
