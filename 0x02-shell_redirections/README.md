@@ -22,3 +22,4 @@
 21-reverse
 22-users_and_homes
 100-empty_casks
+0x02-shell_redirections
