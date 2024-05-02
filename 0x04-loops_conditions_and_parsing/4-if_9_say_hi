@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# will use while lopp to display best school
+# for the 9th iteration, displays Best School and then Hi on a new line
+
+count1=0
+
+while [ $count1 -lt 10]
+do
+	if [ $count1 -eq 9]
+	then
+		echo "hi"
+	fi
+	echo "Best School"
+	{{ count1++ }}
+done
