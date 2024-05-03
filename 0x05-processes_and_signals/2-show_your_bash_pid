@@ -1,4 +1,3 @@
 #!/usr/bin bash
 #Using your previous exercise command, write a Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash processes
-
-./1-list_your_processes | grep "bash"
+./1-list_your_processes | grep "bashu"
